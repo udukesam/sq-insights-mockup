@@ -1,0 +1,29 @@
+{
+  "component": {
+    "id": "proj-1",
+    "key": "customer-onboarding-portal",
+    "name": "Customer Onboarding Portal",
+    "measures": [
+      {
+        "metric": "code_smells",
+        "value": "35"
+      },
+      {
+        "metric": "complexity",
+        "value": "120"
+      },
+      {
+        "metric": "coverage",
+        "value": "72.5"
+      },
+      {
+        "metric": "bugs",
+        "value": "4"
+      },
+      {
+        "metric": "vulnerabilities",
+        "value": "1"
+      }
+    ]
+  }
+}

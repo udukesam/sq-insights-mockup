@@ -1,0 +1,52 @@
+{
+  "components": [
+    {
+      "key": "frontend:App.jsx",
+      "path": "frontend/src/App.jsx",
+      "qualifier": "FIL",
+      "name": "App.jsx"
+    },
+    {
+      "key": "frontend:ClientForm.jsx",
+      "path": "frontend/src/components/ClientForm.jsx",
+      "qualifier": "FIL",
+      "name": "ClientForm.jsx"
+    },
+    {
+      "key": "frontend:ClientList.jsx",
+      "path": "frontend/src/components/ClientList.jsx",
+      "qualifier": "FIL",
+      "name": "ClientList.jsx"
+    },
+    {
+      "key": "frontend:AnalyticsDashboard.jsx",
+      "path": "frontend/src/components/AnalyticsDashboard.jsx",
+      "qualifier": "FIL",
+      "name": "AnalyticsDashboard.jsx"
+    },
+    {
+      "key": "backend:server.js",
+      "path": "backend/server.js",
+      "qualifier": "FIL",
+      "name": "server.js"
+    },
+    {
+      "key": "backend:crm.js",
+      "path": "backend/routes/crm.js",
+      "qualifier": "FIL",
+      "name": "crm.js"
+    },
+    {
+      "key": "backend:kyc.js",
+      "path": "backend/routes/kyc.js",
+      "qualifier": "FIL",
+      "name": "kyc.js"
+    },
+    {
+      "key": "backend:payment.js",
+      "path": "backend/routes/payment.js",
+      "qualifier": "FIL",
+      "name": "payment.js"
+    }
+  ]
+}

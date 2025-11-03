@@ -1,0 +1,34 @@
+{
+  "metrics": [
+    {
+      "key": "code_smells",
+      "name": "Code Smells",
+      "description": "Number of code smells",
+      "domain": "Maintainability"
+    },
+    {
+      "key": "complexity",
+      "name": "Complexity",
+      "description": "Cyclomatic complexity",
+      "domain": "Reliability"
+    },
+    {
+      "key": "coverage",
+      "name": "Coverage",
+      "description": "Unit test coverage",
+      "domain": "Coverage"
+    },
+    {
+      "key": "bugs",
+      "name": "Bugs",
+      "description": "Number of bugs",
+      "domain": "Reliability"
+    },
+    {
+      "key": "vulnerabilities",
+      "name": "Vulnerabilities",
+      "description": "Number of vulnerabilities",
+      "domain": "Security"
+    }
+  ]
+}

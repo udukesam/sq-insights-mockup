@@ -1,0 +1,212 @@
+{
+  "components": [
+    {
+      "key": "frontend/src/App.jsx",
+      "path": "frontend/src/App.jsx",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "8"
+        },
+        {
+          "metric": "complexity",
+          "value": "11"
+        },
+        {
+          "metric": "coverage",
+          "value": "70.8"
+        },
+        {
+          "metric": "bugs",
+          "value": "0"
+        },
+        {
+          "metric": "vulnerabilities",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "frontend/src/components/ClientForm.jsx",
+      "path": "frontend/src/components/ClientForm.jsx",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "10"
+        },
+        {
+          "metric": "complexity",
+          "value": "13"
+        },
+        {
+          "metric": "coverage",
+          "value": "74.4"
+        },
+        {
+          "metric": "bugs",
+          "value": "2"
+        },
+        {
+          "metric": "vulnerabilities",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "frontend/src/components/ClientList.jsx",
+      "path": "frontend/src/components/ClientList.jsx",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "8"
+        },
+        {
+          "metric": "complexity",
+          "value": "11"
+        },
+        {
+          "metric": "coverage",
+          "value": "70.8"
+        },
+        {
+          "metric": "bugs",
+          "value": "0"
+        },
+        {
+          "metric": "vulnerabilities",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "frontend/src/components/AnalyticsDashboard.jsx",
+      "path": "frontend/src/components/AnalyticsDashboard.jsx",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "9"
+        },
+        {
+          "metric": "complexity",
+          "value": "12"
+        },
+        {
+          "metric": "coverage",
+          "value": "72.6"
+        },
+        {
+          "metric": "bugs",
+          "value": "1"
+        },
+        {
+          "metric": "vulnerabilities",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "backend/server.js",
+      "path": "backend/server.js",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "2"
+        },
+        {
+          "metric": "complexity",
+          "value": "5"
+        },
+        {
+          "metric": "coverage",
+          "value": "60.0"
+        },
+        {
+          "metric": "bugs",
+          "value": "0"
+        },
+        {
+          "metric": "vulnerabilities",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "key": "backend/routes/crm.js",
+      "path": "backend/routes/crm.js",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "11"
+        },
+        {
+          "metric": "complexity",
+          "value": "14"
+        },
+        {
+          "metric": "coverage",
+          "value": "76.2"
+        },
+        {
+          "metric": "bugs",
+          "value": "0"
+        },
+        {
+          "metric": "vulnerabilities",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "backend/routes/kyc.js",
+      "path": "backend/routes/kyc.js",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "6"
+        },
+        {
+          "metric": "complexity",
+          "value": "9"
+        },
+        {
+          "metric": "coverage",
+          "value": "67.2"
+        },
+        {
+          "metric": "bugs",
+          "value": "1"
+        },
+        {
+          "metric": "vulnerabilities",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "key": "backend/routes/payment.js",
+      "path": "backend/routes/payment.js",
+      "measures": [
+        {
+          "metric": "code_smells",
+          "value": "5"
+        },
+        {
+          "metric": "complexity",
+          "value": "8"
+        },
+        {
+          "metric": "coverage",
+          "value": "65.4"
+        },
+        {
+          "metric": "bugs",
+          "value": "0"
+        },
+        {
+          "metric": "vulnerabilities",
+          "value": "0"
+        }
+      ]
+    }
+  ]
+}

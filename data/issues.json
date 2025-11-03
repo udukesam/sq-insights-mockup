@@ -1,0 +1,68 @@
+{
+  "total": 7,
+  "issues": [
+    {
+      "key": "ISSUE-1",
+      "rule": "javascript:S1481",
+      "severity": "MAJOR",
+      "type": "CODE_SMELL",
+      "component": "frontend/src/App.jsx",
+      "message": "Remove this unused 'clients' variable.",
+      "line": 45
+    },
+    {
+      "key": "ISSUE-2",
+      "rule": "javascript:S3776",
+      "severity": "CRITICAL",
+      "type": "CODE_SMELL",
+      "component": "frontend/src/components/AnalyticsDashboard.jsx",
+      "message": "Function has a high cognitive complexity.",
+      "line": 12
+    },
+    {
+      "key": "ISSUE-3",
+      "rule": "javascript:S2259",
+      "severity": "MAJOR",
+      "type": "BUG",
+      "component": "frontend/src/components/ClientList.jsx",
+      "message": "Possible null dereference when rendering table rows.",
+      "line": 30
+    },
+    {
+      "key": "ISSUE-4",
+      "rule": "jssec:S3350",
+      "severity": "MAJOR",
+      "type": "VULNERABILITY",
+      "component": "backend/server.js",
+      "message": "Express server using default error handler exposing stack traces.",
+      "line": 22
+    },
+    {
+      "key": "ISSUE-5",
+      "rule": "javascript:S112",
+      "severity": "BLOCKER",
+      "type": "BUG",
+      "component": "backend/routes/payment.js",
+      "message": "Missing validation for payment amount.",
+      "line": 8
+    },
+    {
+      "key": "ISSUE-6",
+      "rule": "javascript:S1066",
+      "severity": "MAJOR",
+      "type": "CODE_SMELL",
+      "component": "backend/routes/crm.js",
+      "message": "Loop contains too many break/continue statements.",
+      "line": 14
+    },
+    {
+      "key": "ISSUE-7",
+      "rule": "javascript:S1215",
+      "severity": "MAJOR",
+      "type": "CODE_SMELL",
+      "component": "backend/routes/kyc.js",
+      "message": "Randomized verification logic could lead to inconsistent results in tests.",
+      "line": 6
+    }
+  ]
+}
